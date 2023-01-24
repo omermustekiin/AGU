@@ -1,3 +1,5 @@
+# Anonim Günlük Uygulaması
+
 #### Projeye Genel Bakış
 
 Kişilerin günlüklerini yazıp uygulama içerisinde saklayabildiği veya dilerse herkese açık olarak
