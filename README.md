@@ -80,5 +80,7 @@ TABLOLAR LİSTESİ
 #### VI Indeks
 
 SONUÇ
+
 Konu Başlıkları ve Görev Dağılımı Listesi
+
 Kaynaklar
