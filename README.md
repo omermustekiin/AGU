@@ -29,10 +29,14 @@ saklayabilmesi, dilerse de herkese açık olarak yazıp paylaşım yapabilmesi.
 ➢ Kullanıcıların yazıp paylaşmak yerine saklamayı tercih ettiği günlük yazılarının dilerse
 özel olarak belirttiği bir tarihte herkese açık olarak paylaşılabilmesini sağlamak.
 
-## İÇİNDEKİLER
+## İçindekiler
+
 ABSTRACT
+
 ÖZ-Genel
+
 TABLOLAR LİSTESİ
+
 ŞEKİLLER LİSTESİ
 
 #### I Proje Tanımı
