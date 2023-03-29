@@ -1,3 +1,4 @@
+import 'package:agufrontend/screens/init_screens/welcome.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -9,6 +10,11 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return const MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        body: WelcomeScreen(),
+      ),
+    );
   }
 }
