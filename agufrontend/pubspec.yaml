@@ -37,6 +37,15 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts:
   image_picker: ^0.8.7
+  datetime_picker_formfield_new: ^2.1.0
+  http:
+  webview_cookie_manager: ^2.0.6
+  universal_html:
+  intl:
+  date_picker_timeline: ^1.2.3
+  localstorage: ^4.0.0
+
+
 
 dev_dependencies:
   flutter_test:
